@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\KIIT\Desktop\pro\edxAndroidPro1-mvp\Mvp.iml" filepath="C:\Users\KIIT\Desktop\pro\edxAndroidPro1-mvp\Mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edxAndroidPro1-mvp.iml" filepath="$PROJECT_DIR$/edxAndroidPro1-mvp.iml" />
+    </modules>
+  </component>
+</project>
